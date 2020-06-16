@@ -27,7 +27,7 @@
 6. Model oluştururken---> Guid ID ne işe yarıyor ?  [Guid](https://www.guidgenerator.com/)
 7.DateTimeOffset? nedir ve DateTimeOffset vs .. kıyaslamalarını araştırınız.
 8. nullable-null nedir?
-9.[Entity Framework(EF Core)](https://www.entityframeworktutorial.net/efcore/entity-framework-core.aspx) nedir? Alternatiflerini de öğreniniz.
+9.[Entity Framework Core(EF Core)](https://www.entityframeworktutorial.net/efcore/entity-framework-core.aspx) nedir? Alternatiflerini de öğreniniz.
 10. DB-First: Önce db normalizasyon, Code First: Model (entity) sınıfları tasarlanır, ORM: Object Relational Mapping <br/>
 [ORM](https://caylakyazilimci.com/post/object-relational-mapping-orm-nedir) nedir araştırınız.
 11. View oluştururken --> Razor View Engine- Viewengine nedir araştırınız. (Razor ve [reactjs.net](https://reactjs.net/) bir viewengine'dir.)
