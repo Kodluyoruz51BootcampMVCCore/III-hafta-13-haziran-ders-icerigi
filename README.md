@@ -17,7 +17,7 @@
    8. [Full Stack Udacıty](https://www.udacity.com/course/full-stack-foundations--ud088)
    
    Servis Oluşturuyoruz :)
-2. Licenses nelerdir? https://choosealicense.com/licenses/--> MIT Licence seçtik,neden seçtiğimiz ile alakalı bilgi edininiz. (Araştırınız.)
+2. Licenses nelerdir?--> MIT Licence seçtik,neden seçtiğimiz ile alakalı bilgi edininiz. (Araştırınız.)
 3. .gitignore nedir? Neden başında "nokta" var,araştırınız.
 4. Stashes nedir? --> GitStash (Araştırınız.) 
 5. Kontrol oluştururken ---> Scaffolding MVC Core <br/>
